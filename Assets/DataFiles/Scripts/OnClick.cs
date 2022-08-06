@@ -19,12 +19,10 @@ public class OnClick : MonoBehaviour
         SceneManager.LoadScene("ScanAr");
     }
     public void OnMenuClick(){
-SceneManager.LoadScene("Menu");
+    SceneManager.LoadScene("Menu");
     }
     public void OnProfileClick(){
         SceneManager.LoadScene("Profile");
     }
-    public void OnLoginScreen(){
-        SceneManager.LoadScene("ScanAr");
-    }
+    
 }

@@ -4,12 +4,12 @@ using UnityEngine;
 
 public class ChangeObject : MonoBehaviour
 {
-    public GameObject one,two,three;
+    public GameObject one,two;
     // Start is called before the first frame update
     void Start()
     {
+        one.SetActive(true);
         two.SetActive(false);
-        three.SetActive(false);
     }
 
     // Update is called once per frame
