@@ -1,6 +1,4 @@
 <a name="readme-top"></a>
-
-
 <br />
 <div align="center">
   <h1 align="center">
@@ -68,14 +66,6 @@ After having the delicious food, the user can directly pay via our application.
 
  </div>
 
-> The functionality below allows us to find the location of the restaurant you are visiting
-
-<img src="./readmeAssets/Screenshot_2.png" alt="Logo" style="margin:auto">
-
-> The design is also responsive in your phone
-
-![Alt Text](./assets/ezgif.com-gif-maker.gif)
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -86,6 +76,9 @@ The major frameworks used in the project are below, new frameworks/ library migh
 
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
+* Unity
+* Vuforia
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -94,27 +87,16 @@ The major frameworks used in the project are below, new frameworks/ library migh
 <!-- GETTING STARTED -->
 ## Getting Started
 
-You can run this project locally in you laptop after installing Xampp software.
+You can run this project locally in you laptop after installing Unity.
 
 
 ### Installation
 
 Please strictly follow the instructions below for running this project.
 
-1. Install xampp from (<a href="https://www.apachefriends.org/download.html">Xampp</a>)
-2. Start the Apache Server
-3. After you have successfully cloned the project you can see it in localhost
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+1. Install Unity
+2. Install Android Studio for Windows User
+3. Install Vuforia Package in Unity
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
