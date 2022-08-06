@@ -10,6 +10,10 @@ public class ChangeObject : MonoBehaviour
     {
         one.SetActive(true);
         two.SetActive(false);
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin
     }
 
     // Update is called once per frame

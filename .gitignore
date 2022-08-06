@@ -50,3 +50,18 @@ sysinfo.txt
 .DS_Store
 
 ARios/Libraries/libiPhone-lib.a
+# Assets/.DS_Store
+# Assets/DataFiles/.DS_Store
+# Assets/DataFiles/Scenes/ScanAr.unity
+# Assets/DataFiles/Scripts/ChangeObject.cs
+# Logs/AssetImportWorker0.log
+# Logs/AssetImportWorker1.log
+# Logs/Packages-Update.log
+# Packages/manifest.json
+# ProjectSettings/EditorBuildSettings.asset
+# ProjectSettings/ProjectSettings.asset
+# Temp/.DS_Store
+# Temp/__Backupscenes/0.backup
+# UserSettings/EditorUserSettings.asset
+# obj/Debug/Assembly-CSharp-Editor.csproj.AssemblyReference.cache
+# obj/Debug/Assembly-CSharp.csproj.AssemblyReference.cache
