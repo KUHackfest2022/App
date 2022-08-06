@@ -55,9 +55,18 @@ We will have revolutionized the dining experience by removing all the hassle of 
 After the user is satisfied with the food, they can place an order. This will ping the chef and the chef can start the preparation of food and the waiter can deliver the food on the table. 
 After having the delicious food, the user can directly pay via our application.
 
-> Below is the screenshot of the desktop version of the website
+<div style="display:flex">
+<img src="https://github.com/KUHackfest2022/Documents/blob/main/Landing%20page.png" alt="Logo" width=250>
 
-<img src="./readmeAssets/Screenshot_1.png" alt="Logo">
+<img src="https://github.com/KUHackfest2022/Documents/blob/main/Camera%20View.png" alt="Logo" width=250>
+
+<img src="https://github.com/KUHackfest2022/Documents/blob/main/Item%20View.png" alt="Logo" width=250>
+
+<img src="https://github.com/KUHackfest2022/Documents/blob/main/Menu.png" alt="Logo" width=250>
+
+<img src="https://github.com/KUHackfest2022/Documents/blob/main/PAYMENT.png" alt="Logo" width=250>
+
+ </div>
 
 > The functionality below allows us to find the location of the restaurant you are visiting
 
