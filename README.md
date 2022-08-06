@@ -1,20 +1,15 @@
 <a name="readme-top"></a>
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 
 <br />
 <div align="center">
-  <a href="https://github.com/KUHackfest2022/Website/">
-    <img src="./assets/images/logo.png" alt="Logo" width="250" height="250">
-  </a>
-
-  <h3 align="center">App Name</h3>
-
+  <h1 align="center">
+  <br>
+  <a href="#"><img src="https://github.com/KUHackfest2022/Website/blob/main/assets/images/logo.png" alt="Markdownify" width="300"></a>
+  <br>
+  <img src="https://github.com/KUHackfest2022/Website/blob/main/assets/LOGO%20TXT%20WHITE.png" alt="Markdownify" width="200">
+  <br>
+</h1>
   <p align="center">
     Solving Classical Problem By Digitalizing Restaurant
     <br />
