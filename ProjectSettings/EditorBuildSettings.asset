@@ -6,9 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/DataFiles/Scenes/Hamburger.unity
-    guid: 77f2c49a88aad409cbb8f56f87fe181e
-  - enabled: 1
     path: Assets/DataFiles/Scenes/Menu.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/DataFiles/Scenes/LoginScreen.unity
+    guid: 5f3a57df2a93548438e0cebba282698e
+  - enabled: 1
+    path: Assets/DataFiles/Scenes/Profile.unity
+    guid: a7d2ddb6af17c4d2eacce37204ab467a
+  - enabled: 1
+    path: Assets/DataFiles/Scenes/ScanAr.unity
+    guid: ee1a3f22227f242c49a6d5627ec2f055
   m_configObjects: {}
