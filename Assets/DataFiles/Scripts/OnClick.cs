@@ -15,10 +15,16 @@ public class OnClick : MonoBehaviour
     {
         
     }
-    public void OnHamburgerClick(){
-        SceneManager.LoadScene("Hamburger");
+    public void OnScanARClick(){
+        SceneManager.LoadScene("ScanAr");
     }
-    public void OnBackClick(){
-        SceneManager.LoadScene("Menu");
+    public void OnMenuClick(){
+SceneManager.LoadScene("Menu");
+    }
+    public void OnProfileClick(){
+        SceneManager.LoadScene("Profile");
+    }
+    public void OnLoginScreen(){
+        SceneManager.LoadScene("ScanAr");
     }
 }
